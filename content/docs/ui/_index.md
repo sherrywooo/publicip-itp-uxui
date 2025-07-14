@@ -1,7 +1,7 @@
 ---
 weight: 1
 bookFlatSection: true
-title: "UX section"
+title: "UI section"
 ---
 
 # Introduction
