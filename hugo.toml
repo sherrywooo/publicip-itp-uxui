@@ -1,0 +1,4 @@
+baseURL = 'https://uxuiplaybook.netlify.app/'
+languageCode = 'en-us'
+title = 'UXUI Lean Playbook'
+theme = 'hugo-book'
