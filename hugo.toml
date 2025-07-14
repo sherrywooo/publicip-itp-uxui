@@ -1,9 +1,4 @@
 baseURL = 'https://uxuiplaybook.netlify.app/'
 languageCode = 'en-us'
-title = 'UXUI Lean Playbook'
+title = 'Lean UXUI Playbook'
 theme = 'hugo-book'
-
-[markup]
-  [markup.tableOfContents]
-    startLevel = 1
-    endLevel = 3
